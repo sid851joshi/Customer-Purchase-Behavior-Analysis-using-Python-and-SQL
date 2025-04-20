@@ -39,3 +39,14 @@ An end-to-end data analytics project leveraging Python and SQL to extract, analy
 | 📊 **RFM Segmentation** | Customers grouped into Champions, At Risk, and Hibernating. |
 | 📉 **Cancellation Patterns** | ~2.9% of orders are canceled; optimization needed. 
 
+
+---
+
+## ⚙️ How to Run
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/yourusername/online-retail-analysis.git
+   cd online-retail-analysis
+   ```
+
